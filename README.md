@@ -10,10 +10,10 @@
 
 ```bash
 # first, clone this repository
-git clone
+git clone https://github.com/treemana/Assignment.git
 
 # second, enter directory
-cd assignment
+cd Assignment
 
 # third, build docker image
 docker build -t fetch .
